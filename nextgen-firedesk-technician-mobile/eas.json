@@ -1,0 +1,14 @@
+{
+  "build": {
+    "apk": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://bhoruka.firedesks.cloud/api"
+      },
+      "channel": "production"
+    }
+  }
+}
+// fdngendev.firedesks.cloud/

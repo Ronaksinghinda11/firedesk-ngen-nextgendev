@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Firedesk-Bhoruka-new",
+    "slug": "nextgen-firedesk-technician-mobile",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "scheme": "nextgen-firedesk",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e2edd8a3-0d63-4d50-a533-a7ba856abf6b"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.nextgenfiredesk.techniciannbhoruka"
+    },
+    "android": {
+      "package": "com.nextgenfiredesk.techniciannbhoruka",
+      "versionCode": 3,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e2edd8a3-0d63-4d50-a533-a7ba856abf6b"
+      }
+    },
+    "owner": "harsh.ringsia"
+  }
+}
