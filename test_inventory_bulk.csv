@@ -1,0 +1,4 @@
+Plant,Category,Product,Type,Sub Type,Manufacturing Date,Quantity,Serial Number,Model,Manufacturer,Unit Price,Asset Code,Warranty Start,Warranty End
+Plant 1,Category 1,Product 1,Type A,SubType 1,2024-01-15,5,SN-001,Model-X,Manufacturer-A,25000,TEST-001,2024-01-15,2027-01-15
+Plant 1,Category 1,Product 2,Type B,SubType 2,2024-02-20,3,SN-002,Model-Y,Manufacturer-B,35000,TEST-002,2024-02-20,2027-02-20
+Plant 1,Category 2,Product 3,Type C,,2024-03-10,10,SN-003,Model-Z,Manufacturer-C,15000,TEST-003,2024-03-10,2026-03-10
